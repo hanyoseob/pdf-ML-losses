@@ -9,4 +9,4 @@
 ### 2.1 Generative Adversarial Network (GAN)
 ### 2.2 pix2pix: Conditional GAN (cGAN)
 ### 2.3 CycleGAN
-### 2.4 StarGAN (*to be continued.*)
+### 2.4 StarGAN
